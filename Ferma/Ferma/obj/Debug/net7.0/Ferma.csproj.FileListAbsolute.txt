@@ -1,0 +1,14 @@
+C:\Users\k\Desktop\Ferma\Ferma\bin\Debug\net7.0\Ferma.exe
+C:\Users\k\Desktop\Ferma\Ferma\bin\Debug\net7.0\Ferma.deps.json
+C:\Users\k\Desktop\Ferma\Ferma\bin\Debug\net7.0\Ferma.runtimeconfig.json
+C:\Users\k\Desktop\Ferma\Ferma\bin\Debug\net7.0\Ferma.dll
+C:\Users\k\Desktop\Ferma\Ferma\bin\Debug\net7.0\Ferma.pdb
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.AssemblyInfo.cs
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.dll
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\refint\Ferma.dll
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.pdb
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\Ferma.genruntimeconfig.cache
+C:\Users\k\Desktop\Ferma\Ferma\obj\Debug\net7.0\ref\Ferma.dll

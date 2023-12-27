@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k\\Desktop\\Ferma\\Ferma\\Ferma.csproj",
+      "projectUniqueName": "C:\\Users\\k\\Documents\\GitHub\\ferma\\Ferma\\Ferma\\Ferma.csproj",
       "projectName": "Ferma",
-      "projectPath": "C:\\Users\\k\\Desktop\\Ferma\\Ferma\\Ferma.csproj",
+      "projectPath": "C:\\Users\\k\\Documents\\GitHub\\ferma\\Ferma\\Ferma\\Ferma.csproj",
       "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k\\Desktop\\Ferma\\Ferma\\obj\\",
+      "outputPath": "C:\\Users\\k\\Documents\\GitHub\\ferma\\Ferma\\Ferma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

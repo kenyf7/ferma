@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CzENjm4uDZcfA5HYfalSAPbW1O+BDi0Kd3cEiC2DJ5dr9TOKNi2hTeRY/oLvI6a3wuXMvRKX8dZg2nZWXeF0Kw==",
+  "dgSpecHash": "0WUYV4q5F+9/HySoeW7YfxeRjQpoWYHKt1kRf01SGXy/ZbJJQL8mx87LvjEXf7gEyMqvxs7lkBc/VJj9hUDQOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k\\Desktop\\Ferma\\Ferma\\Ferma.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\k\\Documents\\GitHub\\ferma\\Ferma\\Ferma\\Ferma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

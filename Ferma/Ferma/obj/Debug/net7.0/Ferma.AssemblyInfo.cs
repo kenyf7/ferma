@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ferma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b05c3c5f3b8c3c2f1c700d138e0e3a09e2b5fe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a6cc549116af65c48dab630fd3e434b7996a402")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ferma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ferma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

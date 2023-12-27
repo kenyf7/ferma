@@ -1,18 +1,16 @@
 ﻿using System;
-
-
-class Tests
-{
-    readonly int Void;
-    readonly int Void2;
-    readonly int Void3;
-}
-
-
 class Program
 {
     static void Main()
     {
+
+        // script 
+
+        Console.WriteLine("Script kakoy-to 0_0");
+
+        //
+
+
         Console.WriteLine("Теорема Пифагора");
 
         Console.Write("Первый катет: ");
